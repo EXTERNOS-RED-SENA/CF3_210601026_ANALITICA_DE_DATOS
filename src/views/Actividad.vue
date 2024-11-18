@@ -13,7 +13,7 @@ export default {
   name: 'ActividadDidactica',
   data: () => ({
     cuestionario: {
-      tema: 'Nombre del componente formativo',
+      tema: 'Análisis estadístico de datos y generación de gráficos',
       titulo: 'Cuestionario',
       introduccion: '<b> Objetivo:</b> Texto de Word',
       barajarPreguntas: true,

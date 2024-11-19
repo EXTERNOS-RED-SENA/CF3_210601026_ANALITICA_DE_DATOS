@@ -38,7 +38,7 @@
         .col-lg-5.my-3
           img.img-t.img-a(src='@/assets/template/images/cf3/36.png')
         .col-lg-7.my-3
-          h5  Formula: 
+          h5  Formula:
           img.img-t.mb-4(src='@/assets/template/images/cf3/37.png')
           .brad.p-3.h-100
             p.mb-3
